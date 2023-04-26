@@ -48,5 +48,18 @@ body {
     color: white;
   }
 body {
-  color: #0000ff;
+  color: #000000;
+}
+
+#Framsida {
+  height:auto;
+  max-width: 200px;
+}
+ #Baksida{
+  height:auto;
+  max-width: 200px;
+}
+#InnanGymmet{
+  height:auto;
+  max-width: 300px;
 }

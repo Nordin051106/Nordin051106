@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nordin&label=Profile%20views&color=0e75b6&style=flat" alt="nordin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nordin" alt="nordin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nordin051106" alt="nordin" /></a> </p>
 
 - 🌱 I’m currently learning **Webbing and learning to build a website**
 
